@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=file
+comment1.params=
+comment1.target=file()
+comment2.params=str
+comment2.target=void\ filemgr(java.lang.String)
+comment3.params=ch
+comment3.target=boolean\ securitycheck(java.lang.String)
+comment4.params=ch
+comment4.target=boolean\ available(java.lang.String)
+numComments=5

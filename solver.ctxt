@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=solver
+comment1.params=ex
+comment1.target=java.lang.String\ main(java.lang.String)
+comment2.params=expression
+comment2.target=java.lang.String\ calc(java.lang.String)
+comment3.params=expression\ pos
+comment3.target=java.lang.String\ extractExpressionFromBraces(java.lang.String,\ int)
+comment4.params=expression\ pos\ direction
+comment4.target=java.lang.String\ extractNumber(java.lang.String,\ int,\ int)
+comment5.params=leftNum\ rightNum\ divider
+comment5.target=java.lang.String\ calcShortExpr(java.lang.String,\ java.lang.String,\ char)
+numComments=6

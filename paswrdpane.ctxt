@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=paswrdpane
+comment1.params=
+comment1.target=paswrdpane()
+comment2.params=e
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment3.params=
+comment3.target=void\ regpane()
+comment4.params=e
+comment4.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=j
+comment7.target=void\ exit(javax.swing.JFrame)
+numComments=8

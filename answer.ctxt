@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=answer
+comment1.params=
+comment1.target=answer()
+comment2.params=str
+comment2.target=void\ ansmgr(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ ansread()
+comment4.params=
+comment4.target=void\ clear()
+numComments=5
